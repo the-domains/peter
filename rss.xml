@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[peter]]></title>
         <description><![CDATA[peter]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/peter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 17:00:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 18 Oct 2015 23:29:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/peter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi again.</p>]]></description>
+            <link>https://thegrid.ai/peter/5738e9c2-d30d-4aa1-be0d-3c32b9a72c01/index.html</link>
+            <guid isPermaLink="false">5738e9c2-d30d-4aa1-be0d-3c32b9a72c01</guid>
+            <pubDate>Sun, 18 Oct 2015 23:29:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello world.]]></title>
             <description><![CDATA[<article><h1>Hello world.</h1><p>Introduction to the world</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8714fa7c-fc82-4f47-9e71-58623e29490a.jpg"></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/peter/hello-world/index.html</link>
             <guid isPermaLink="false">c64edd69-9383-4dce-b8ca-a0d45900b9ce</guid>
             <pubDate>Fri, 16 Oct 2015 16:59:53 GMT</pubDate>
         </item>
