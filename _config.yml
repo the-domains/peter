@@ -2,6 +2,7 @@ name: peter
 favicon: null
 layout_spectrum: 0.25
 typography_spectrum: 0.69655
+title: null
 cta:
   domain: null
   bucket: null
